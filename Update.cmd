@@ -1,2 +1,2 @@
 cd %~dp0
-DroidUpdate.exe %*> Update.log
+DroidUpdate.bat %*> Update.log
